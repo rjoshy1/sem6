@@ -1,0 +1,11 @@
+pos {text-align: center;}
+title {font-size: medium;font-family: 'Courier New', Courier, monospace;}
+.boxes {display: grid;grid-template-columns: repeat(3, auto);width: 380px;margin-top: 50px;text-align: center;margin-left: 30px;background-color: #cbcccc;color: #e70303;}
+.cells {width: 120px;height: 120px;border: 3px solid #fafafa;font-size: 38px;}
+.turn {font-size: 20px;color: red;margin-left: 20px; position: absolute;}
+.oh{background-color: #1ac920; font-size: 20px;border-color: #1ac920;  border-width:100px;}
+.name{color: red; margin-left: 15px; margin-right: 60px; size: 15px; width:130px;}
+textarea {width: 320px;height: 420px;margin-left: 800px;position: absolute;}
+h2{text-align: left;}
+.hiding{visibility:hidden;}
+.you {font-size: 20px;color: red;margin-top: 10px; }
